@@ -1,5 +1,5 @@
-# 💫 About Me:
-## ✨ Sobre Mim<br><br>- 💻 Entusiasta de Tecnologia<br>- 🤖 Explorando IA e Automação<br>- 📊 Data Analytics & Business Intelligence<br>- ⚙️ Engenharia e Inovação<br>- 📱 Power Apps & Power Automate<br>- 🎨 Soluções criativas para problemas reais<br>- 🚀 Aprendizado contínuo<br>- 🌊 Interessado em tecnologia aplicada
+# 🚀 About Me:
+<br>- 💻 Entusiasta de Tecnologia<br>- 🤖 Explorando IA e Automação<br>- 📊 Data Analytics & Business Intelligence<br>- ⚙️ Engenharia e Inovação<br>- 📱 Power Apps & Power Automate<br>- 🎨 Soluções criativas para problemas reais<br>- 🚀 Aprendizado contínuo<br>- 🌊 Interessado em tecnologia aplicada
 
 
 # 💻 Tech Stack:
